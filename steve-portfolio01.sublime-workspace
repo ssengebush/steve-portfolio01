@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"play",
+				"playerOne"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"bg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bookmarks go	to",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/steve-portfolio01"
+	],
+	"file_history":
+	[
+		"/C/ionic-tutorial/conference/package.json",
+		"/C/Coding Practice/Javascript Practice/myscript.js",
+		"/C/Coding Practice/Javascript Practice/simple.html",
+		"/C/wamp/www/wp-content/themes/twentythirteencb01/style.css",
+		"/C/wamp/www/wp-content/themes/twentythirteencb01/index.php",
+		"/C/wamp/www/wp-content/themes/twentythirteencb01/header.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/style.css",
+		"/C/wamp/www/wp-content/themes/twentythirteencb01/images/nav/crackbabies/navstyle.css",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/wp-content/plugins/comic-easel/css/comiceasel.css",
+		"/C/wamp/www/wp-content/plugins/comic-easel/ceo-import.php",
+		"/C/wamp/www/wp-content/themes/twentythirteencb01/content.php",
+		"/C/wamp/www/wp-content/index.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/index.php",
+		"/C/$Recycle.Bin/S-1-5-21-1368314412-4189214630-1403005692-1000/$RI4D3B9/content.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-child/content.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-backup02/content.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/content.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/header.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-backup02/style.css",
+		"/C/wamp/www/wp-content/themes/twentythirteen-child/style.css",
+		"/C/wamp/www/wp-content/themes/twentythirteen-child/header.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-backup02/page.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-backup02/footer.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-backup02/index.php",
+		"/C/wamp/www/wp-content/themes/index.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen-childcb/style.css",
+		"/C/wamp/www/wp-content/themes/twentythirteen/sidebar.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/sidebar-main.php",
+		"/C/wamp/www/wp-content/themes/twentythirteen/footer.php",
+		"/C/wamp/www/wp-content/themes/cb01/style.css",
+		"/C/wamp/www/wp-content/themes/cb01/index.php",
+		"/C/wamp/www/wp-content/themes/cb01/backups/header.php",
+		"/C/wamp/www/wp-content/themes/cb01/header.php",
+		"/C/wamp/www/wp-content/themes/cb01/sidebar.php",
+		"/C/wamp/www/wp-content/themes/cb01/footer.php",
+		"/C/wamp/www/wp-content/themes/cb01/blog.php",
+		"/C/wamp/www/wp-content/themes/cb01/comic.php",
+		"/C/wamp/www/wp-content/themes/cb03/style.css",
+		"/C/wamp/www/wp-content/themes/cb03/index.php",
+		"/C/wamp/www/wp-content/themes/cb03/header.php",
+		"/C/wamp/www/wp-content/themes/cb03/sidebar.php",
+		"/C/wamp/www/wp-content/themes/cb02/style.css",
+		"/C/wamp/www/wp-content/themes/cb02/header.php",
+		"/C/wamp/www/wp-content/themes/cb02/index.php",
+		"/C/wamp/www/wp-content/themes/cb02/sidebar.php",
+		"/C/wamp/www/wp-content/themes/cb01/functions.php",
+		"/C/wamp/www/wp-content/themes/comicpress/layout-head.php",
+		"/C/wamp/www/wp-content/themes/cb01/index_backup01.php",
+		"/C/wamp/www/wp-content/themes/cb01/index02.html",
+		"/D/PROJECTS/Crack Babies/Website/Site Pages/style.css",
+		"/D/PROJECTS/Crack Babies/Website/Site Pages/index02.html"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"entry-header",
+			"5.0",
+			".site-content",
+			"content",
+			"body",
+			"page",
+			"menu-toggle",
+			"navbar",
+			".widget-area",
+			"6a6a6a",
+			"1144",
+			"300",
+			"350",
+			"5e5e5e",
+			"nav",
+			"box-shadow",
+			"header",
+			"960",
+			"shadow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "steve-portfolio01.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
